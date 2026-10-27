@@ -1,0 +1,19 @@
+# Generated builds and compiled Java files
+/build/
+/dist/
+/target/
+*.class
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Local logs and operating system files
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
